@@ -26,7 +26,7 @@ yarn -v
 ## Create wallet
 ### 1. Clone the repository
    ```bash
-   git clone https://github.com/0xmoei/wallet-gen.git
+   git clone https://github.com/ToanBm/wallet-gen.git
    cd wallet-gen
    ```
 
