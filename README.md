@@ -9,9 +9,9 @@ https://discord.gg/octra
 Install & Update Packages:
 ```
 sudo apt update && sudo apt upgrade -y
-```
-```
 sudo apt install curl git
+```
+```
 sudo apt install unzip -y
 curl -fsSL https://bun.sh/install | bash
 bun --version
