@@ -12,6 +12,8 @@ sudo apt update && sudo apt upgrade -y
 ```
 ```
 sudo apt install curl git
+```
+```
 sudo apt install unzip -y
 ```
 ```
