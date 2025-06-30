@@ -1,7 +1,7 @@
 # Octra Public Testnet
 
 ## Join Discord
-https://discord.gg/octra
+https://discord.gg/6P5n696s
 
 ---
 ## Install dependecies
