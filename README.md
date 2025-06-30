@@ -4,7 +4,6 @@
 https://discord.gg/octra
 
 ---
-
 ## Install dependecies
 Install & Update Packages:
 ```
@@ -32,7 +31,6 @@ yarn -v
 ```
 
 ---
-
 ## Create wallet
 ### 1. Clone the repository
    ```bash
@@ -46,7 +44,6 @@ yarn -v
    chmod +x ./start.sh
    ./start.sh
    ```
-
 
 ### 3. Open your browser
 * **WSL/Linux/MAC users:**
@@ -117,26 +114,16 @@ python3 cli.py
 ```
 * This should open a Testnet UI
 
-![image](https://github.com/user-attachments/assets/0ba1d536-4048-4899-a977-4517b2e522cd)
-
+![image](https://github.com/ToanBm/image/blob/main/octra-1.png)
 
 **4. Send transactions**
-* Send transactions to my address: `octBvPDeFCaAZtfr3SBr7Jn6nnWnUuCfAZfgCmaqswV8YR5`
+* Send transactions to my address: `oct559HbQrZNXcZrY5k5J2JvQuybRNqG2t6xq724gKkUQg3`
 * Use [Octra Explorer](https://octrascan.io/) to find more octra addresses
 
-
-**5. Use Alternative Script**
-* If you have issue with official script, I just refined the script with optimizated UI, you can replace the current one with mine by executing this command:
-```bash
-curl -o cli.py https://raw.githubusercontent.com/0xmoei/octra/refs/heads/main/cli.py
-```
-
-**6. Share Feedback**
-
+**5. Share Feedback**
 Always share your feedback about the week's task in discord
 
 ---
-
 ## Wait for next steps
 Stay tuned.
 
