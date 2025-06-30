@@ -14,6 +14,7 @@ sudo apt install curl git
 ```
 sudo apt install unzip -y
 curl -fsSL https://bun.sh/install | bash
+export PATH="$HOME/.bun/bin:$PATH"
 bun --version
 ```
 Install Nodejs (Only VPS users)
