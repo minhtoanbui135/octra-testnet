@@ -20,16 +20,6 @@ curl -fsSL https://bun.sh/install | bash
 export PATH="$HOME/.bun/bin:$PATH"
 bun --version
 ```
-Install Nodejs (Only VPS users)
-```
-sudo apt update
-sudo curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
-sudo apt install -y nodejs
-node -v
-npm install -g yarn
-yarn -v
-```
-
 ---
 ## Create wallet
 ### 1. Clone the repository
@@ -49,7 +39,6 @@ yarn -v
 * **WSL/Linux/MAC users:**
   * Navigate to `http://localhost:8888` on browser
 
-  
 * **VPS users:**
   * 1- Open a new terminal
   * 2- Install **localtunnel**:
