@@ -2,7 +2,14 @@
 
 ## Join Discord
 https://discord.gg/6P5n696s
-
+---------------------------------------------------------------------
+**3. Start CLI**
+```bash
+cd octra_pre_client
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
 ---
 ## Install dependecies
 Install & Update Packages:
